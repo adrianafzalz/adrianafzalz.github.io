@@ -34,13 +34,26 @@ body {
 }
 
 .main2 {
-    max-width: 1200px;
+    
 
     padding: 2rem 1.5rem 3rem;
     margin: 30px;
 
     display: grid;
     grid-template-columns: 1fr 4fr;
+    align-items: center;
+    justify-content: space-between;
+    gap: 3rem;
+    min-height: 200px;
+}
+.main22 {
+    
+
+    padding: 2rem 1.5rem 3rem;
+    margin: 30px;
+
+    display: grid;
+    grid-template-columns: 4fr 1fr;
     align-items: center;
     justify-content: space-between;
     gap: 3rem;
