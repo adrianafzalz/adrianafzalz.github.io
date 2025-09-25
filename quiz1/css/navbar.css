@@ -67,9 +67,8 @@ body {
     }
 
 .buton:hover {
-        box-shadow: 0 8px 25px rgba(0, 0, 0, 0.6); /* shadow lebih dalam */
-        transform: translateY(-3px); /* tombol sedikit terangkat */
-        background: linear-gradient(90deg, rgb(79, 208, 165) 40%, rgba(127, 222, 114, 0.7)); /* opsi sedikit lebih terang */
+        box-shadow: 0 8px 25px rgba(0, 0, 0, 0.6);
+        background: linear-gradient(90deg, rgb(79, 208, 165) 40%, rgba(127, 222, 114, 0.7)); 
     }
 
 
